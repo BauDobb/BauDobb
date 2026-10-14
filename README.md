@@ -2,9 +2,9 @@
 
 # Hey, I'm Bautista 👋
 
-### Backend Developer | API Architect | Founder of **Pocha**
+### Backend Developer | API Architect
 
-I design and build **custom backend systems and HTTP methods** that power real products — not just boilerplate CRUD. Currently pouring most of my energy into **[Pocha](#)**, where I work directly with clients to design and ship backend systems tailored to their web platforms.
+I design and build **custom backend systems and HTTP methods** that power real products — not just boilerplate CRUD.
 
 </div>
 
@@ -13,7 +13,6 @@ I design and build **custom backend systems and HTTP methods** that power real p
 ### 🚀 About me
 
 - 🧠 Backend-focused developer, obsessed with clean APIs and solid architecture
-- 🏗️ Founder of **Pocha** — consulting with clients to build custom backend systems for their websites (Freelance work)
 - 🔧 I like building things from the ground up: custom HTTP methods, routing logic, and APIs designed around real use cases
 - 💻 Working daily across **Windows, Debian and Fedora**
 - 📫 Open to backend consulting work — reach out if you need a solid API built right
